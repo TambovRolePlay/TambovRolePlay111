@@ -1,6 +1,6 @@
 {
   "launcher_version": "1.1",
-  "update_url": "https://your-update-link.com/launcher.exe", // <-- ЗАМЕНИТЕ ССЫЛКУ
+  "update_url": "https://your-update-link.com/launcher.exe", // <-- ЗАМЕНИТЕ ССЫЛКУ*
   "news": [
     {
       "id": 1, // Можно числом
